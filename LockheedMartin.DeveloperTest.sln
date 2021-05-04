@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockheedMartin.DeveloperTest", "LockheedMartin.DeveloperTest\LockheedMartin.DeveloperTest.csproj", "{2997DAAE-4D24-41F1-A3BD-02C2E15AE853}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockheadMartin.DeveloperTest.UnitTests", "LockheadMartin.DeveloperTest.UnitTests\LockheadMartin.DeveloperTest.UnitTests.csproj", "{7B64D02B-300D-41AA-8CEF-7540B126C189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2997DAAE-4D24-41F1-A3BD-02C2E15AE853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2997DAAE-4D24-41F1-A3BD-02C2E15AE853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2997DAAE-4D24-41F1-A3BD-02C2E15AE853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2997DAAE-4D24-41F1-A3BD-02C2E15AE853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B64D02B-300D-41AA-8CEF-7540B126C189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B64D02B-300D-41AA-8CEF-7540B126C189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B64D02B-300D-41AA-8CEF-7540B126C189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B64D02B-300D-41AA-8CEF-7540B126C189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9136275-EF29-425F-BE12-A9B3C4AAEF63}
+	EndGlobalSection
+EndGlobal
